@@ -230,4 +230,3 @@ panda_color_sorter/
 
 ## 📄 License
 MIT © 2026. See [LICENSE](LICENSE).
->>>>>>> 524e05290ecd22c173a20f9460e28512d2c39917
