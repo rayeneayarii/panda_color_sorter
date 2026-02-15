@@ -1,16 +1,12 @@
-<<<<<<< HEAD
-[![▶️ Demo](media/demo.mp4)](https://github.com/rayeneayarii/panda_color_sorter/blob/main/media/demo.mp4)
-
-
-
-=======
 
 # 🦾 Franka Panda Color Sorting Robot 
 
 **ROS 2 Humble/Jazzy • MoveIt 2 • Gazebo • OpenCV • Docker**  
 Franka Panda detects Red/Green/Blue cubes → computes 3D poses → picks → sorts into color bins. **Full tutorial + Docker demo ready**.
 
-[![▶️ Demo Video](media/demo.mp4)](https://github.com/rayeneayarii/panda_color_sorter/blob/main/media/demo.mp4)
+[![▶️ Franka Panda Demo](https://img.youtube.com/vi/CMc7TWuEEnQ/maxresdefault.jpg)](https://youtu.be/CMc7TWuEEnQ)
+
+
 
 *Gazebo + RViz2 + real-time sorting*
 
