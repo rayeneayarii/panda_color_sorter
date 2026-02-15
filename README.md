@@ -4,7 +4,8 @@
 **ROS 2 Humble/Jazzy • MoveIt 2 • Gazebo • OpenCV • Docker**  
 Franka Panda detects Red/Green/Blue cubes → computes 3D poses → picks → sorts into color bins. **Full tutorial + Docker demo ready**.
 
-[![Demo Video](media/demo.mp4)](https://github.com/rayeneayarii/panda_color_sorter/assets/123456/demo.mp4)  
+[![▶️ Demo Video](media/demo.mp4)](https://github.com/rayeneayarii/panda_color_sorter/blob/main/media/demo.mp4)
+
 *Gazebo + RViz2 + real-time sorting*
 
 ---
