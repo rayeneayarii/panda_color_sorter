@@ -1,4 +1,3 @@
-
 # 🦾 Franka Panda Color Sorter Robot
 
 **ROS 2 Humble/Jazzy • MoveIt 2 • Gazebo • OpenCV • Docker**  
@@ -7,8 +6,7 @@ Complete pick-and-place pipeline: Franka Emika Panda arm detects colored cubes (
 [![Demo](media/demo.png)](https://github.com/rayeneayarii/panda_color_sorter/assets/123456/demo.mp4)
 *Drag your Gazebo screenshot/video here → auto-generates embed link*
 
----
-```markdown
+
 ## 🎯 What I Built
 
 Full-stack robotics project implementing **color-based object sorting**:
@@ -25,8 +23,6 @@ ros2 run pymoveit2 pick_and_place.py target_color:=R  # Red cubes
 ros2 run pymoveit2 pick_and_place.py target_color:=G  # Green  
 ros2 run pymoveit2 pick_and_place.py target_color:=B  # Blue
 ```
-
----
 
 ## 🛠 Challenges I Solved
 
