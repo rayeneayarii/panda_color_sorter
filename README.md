@@ -1,4 +1,4 @@
-```markdown
+
 # 🦾 Franka Panda Color Sorter Robot
 
 **ROS 2 Humble/Jazzy • MoveIt 2 • Gazebo • OpenCV • Docker**  
@@ -8,7 +8,7 @@ Complete pick-and-place pipeline: Franka Emika Panda arm detects colored cubes (
 *Drag your Gazebo screenshot/video here → auto-generates embed link*
 
 ---
-
+```markdown
 ## 🎯 What I Built
 
 Full-stack robotics project implementing **color-based object sorting**:
